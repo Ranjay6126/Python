@@ -1,14 +1,23 @@
 # Python Practice: Basic to Intermediate
 
-Run any lesson with `python <filename>`. Each file is standalone and includes examples you can change and rerun.
+Lessons :
 
-1. `01_variables_and_types.py — variables, types, and conversion
-2. `02_input_and_strings.py — input, string methods, and formatting
-3. `03_numbers_and_operators.py — arithmetic, comparisons, and booleans
-4. 04_conditionals.py — if, elif, and else
-5. 05_loops.py — for, `while, and loop control
-6. `06_collections.py — lists, tuples, sets, and dictionaries
-7. `07_functions.py — parameters, return values, and scope
-8. `08_comprehensions_and_lambdas.py — comprehensions, sorting, and lambdas
-9. `09_errors_and_validation.py — exceptions and input validation
-10. `10_file_handling.py — reading and writing text and JSON files
+Variables and data types
+
+User input and strings
+
+Numbers and operators
+
+If, elif, and else
+
+For loops and while loops
+
+Lists, tuples, sets, and dictionaries
+
+Functions and return values
+
+Comprehensions and lambda functions
+
+Error handling and input validation
+
+Reading and writing files and JSON
