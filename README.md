@@ -21,3 +21,15 @@ Comprehensions and lambda functions
 Error handling and input validation
 
 Reading and writing files and JSON
+
+Object-oriented programming
+
+Modules and imports
+
+Date and time
+
+Regular expressions
+
+CSV and JSON processing
+
+File and OS utilities
